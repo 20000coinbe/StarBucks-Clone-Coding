@@ -815,17 +815,18 @@ header .badges .badge {
 
 .find-store .inner {
   height: 400px;
-  position: absolute;
 }
 
 .find-store .texture1 {
+  position: absolute;
   top: 0;
   left: 400px;
 }
 
 .find-store .texture2 {
+  position: absolute;
   bottom: 0;
-  left: 0;
+  right: 0;
 }
 
 .find-store .picture {
@@ -857,3 +858,5 @@ header .badges .badge {
 .find-store .text-group .discription {
   margin-bottom: 20px;
 }
+
+/* AWARDS */
